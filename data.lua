@@ -25,7 +25,7 @@ data:extend(
   {
     type = "recipe",
     name = "big-solar-panel",
-    energy_required = 10,
+    energy_required = 200,
     enabled = false,
     ingredients =
     {
