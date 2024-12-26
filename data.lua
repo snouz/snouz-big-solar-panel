@@ -71,7 +71,7 @@ data:extend(
     name = "big-solar-panel",
     icon = graphics .. "/icons/big-solar-panel.png",
     flags = {"placeable-neutral", "player-creation"},
-    minable = {hardness = 0.25, mining_time = 0.5, result = "solar-panel"},
+    minable = {hardness = 0.25, mining_time = 0.5, result = "big-solar-panel"},
     fast_replaceable_group = "big-solar-panel",
     max_health = 600,
     corpse = "big-solar-panel-remnants",
